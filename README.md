@@ -12,7 +12,7 @@
   
 [About](https://github.com/anhvietq/Goal-App#about) | 
 [Machineries](https://github.com/anhvietq/Goal-App#%EF%B8%8Fmachineries)  | 
-[Requirement](https://github.com/anhvietq/Goal-App#requirements)  | 
+[Requirements](https://github.com/anhvietq/Goal-App#requirements)  | 
 [Launch](https://github.com/anhvietq/Goal-App#launch) 
 
 </div>
