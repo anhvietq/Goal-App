@@ -21,7 +21,7 @@
 </div>
 
 # 📢About
-Small goals are worth celebrating! 
+Small goals are worth celebrating 🎉🙌🏻! 
 
 This app is all about the simplicity where users can use it to write down whatever it is they would like to do throughout the day. Once the activity 
 is completed, users can simply delete the item and create new goals if desired. 
